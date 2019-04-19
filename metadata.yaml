@@ -1,10 +1,13 @@
 _repo: The-Threefold-Commonwealth_59257
-_version: 0.1.0
+_version: 0.2.0
 contributor:
   translator:
     agent_name: Bowen-Wedgwood, Ethel Kate
     gutenberg_agent_id: '50362'
     url: http://www.gutenberg.org/2009/agents/50362
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Steiner, Rudolf
@@ -15,6 +18,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/26537
     wikipedia: http://en.wikipedia.org/wiki/Rudolf_Steiner
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/59257#The-Threefold-Commonwealth
 gutenberg_issued: '2019-04-12'
 gutenberg_type: Text
 identifiers:
