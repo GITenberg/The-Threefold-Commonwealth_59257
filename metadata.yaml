@@ -1,0 +1,29 @@
+_repo: The-Threefold-Commonwealth_59257
+_version: 0.0.1
+contributor:
+  translator:
+    agent_name: Bowen-Wedgwood, Ethel Kate
+    gutenberg_agent_id: '50362'
+    url: http://www.gutenberg.org/2009/agents/50362
+creator:
+  author:
+    agent_name: Steiner, Rudolf
+    alias: Steiner, Rudolph
+    birthdate: 1861
+    deathdate: 1925
+    gutenberg_agent_id: '26537'
+    url: http://www.gutenberg.org/2009/agents/26537
+    wikipedia: http://en.wikipedia.org/wiki/Rudolf_Steiner
+description: ''
+gutenberg_issued: '2019-04-12'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '59257'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: The Threefold Commonwealth
+url: http://www.gutenberg.org/ebooks/59257
